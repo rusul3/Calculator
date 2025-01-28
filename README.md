@@ -30,7 +30,7 @@ Overview: This calculator application, built using the tkinter module in Python,
 2-The clear button enhances usability by allowing quick correction of mistakes and new calculations without manual clearing.
 
 ## Figma Design
-![UI Design](UXFigma.jpg "UI Design Example")
+![UI Design](UIFigma.jpg "UI Design Example")
 
 
 
